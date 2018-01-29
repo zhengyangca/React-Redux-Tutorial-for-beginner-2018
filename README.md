@@ -1,5 +1,7 @@
 React-Redux Tutorial for beginners 2018 with cutting edge versions of simple examples
 
+![alt text](https://cdn-images-1.medium.com/max/1000/0*1p4U99DAhsOHqX-m.jpg)
+
 Original Article at: https://medium.com/@zhengyang_72813/react-redux-tutorial-for-beginners-2018-with-cutting-edge-versions-of-simple-examples-f1b20e93bdf6
 
 Motivation:
@@ -14,7 +16,8 @@ You will be afterwards very easy to integrate the front-end app with any type of
 
 Usage:
 Download or git clone
-Terminal/Command Line access project folder & npm i
+Terminal/Command Line access project folder 
+npm i
 npm start
 
 Lisence
