@@ -15,12 +15,16 @@ With this tutorial, I’m going to show what React-Redux developers care about a
 You will be afterwards very easy to integrate the front-end app with any type of REST backends(such as express in JS or Pyramid in Python, see more details from the tutorial, Create RESTful backend with ExpressJS(Nodejs) in 5 mins)
 
 ## Usage:
-[Download](https://github.com/river7527/React-Redux-Tutorial-for-beginner-2018/archive/master.zip) or 
-[git clone](x-github-client://openRepo/https://github.com/river7527/React-Redux-Tutorial-for-beginner-2018)
+[Download](https://github.com/river7527/React-Redux-Tutorial-for-beginner-2018/archive/master.zip) or git clone
 
 Terminal/Command Line access project folder 
+
+```
 npm i
+```
+```
 npm start
+```
 
 ## Lisence
 MIT
