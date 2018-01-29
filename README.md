@@ -16,7 +16,7 @@ You will be afterwards very easy to integrate the front-end app with any type of
 
 ## Usage:
 [Download](https://github.com/river7527/React-Redux-Tutorial-for-beginner-2018/archive/master.zip) or 
-git clone x-github-client://openRepo/https://github.com/river7527/React-Redux-Tutorial-for-beginner-2018
+[git clone](x-github-client://openRepo/https://github.com/river7527/React-Redux-Tutorial-for-beginner-2018)
 
 Terminal/Command Line access project folder 
 npm i
