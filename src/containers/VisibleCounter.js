@@ -1,4 +1,3 @@
-import React, {Component} from 'react'
 import {connect} from 'react-redux'
 import Counter from '../components/Counter'
 import * as actions from '../actions'
@@ -7,8 +6,8 @@ import * as actions from '../actions'
 // Map Redux state to component props
 function mapStateToProps(state) {
     return {
-        value: state.count,
-        wish_value: state.wish_value
+        count: state.CountReducer.count,
+        wish_value: state.CountReducer.wish_value
     }
 }
 
