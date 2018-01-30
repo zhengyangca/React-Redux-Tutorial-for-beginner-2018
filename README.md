@@ -5,7 +5,7 @@
 Article Tutorials at: https://medium.com/@zhengyang_72813/react-redux-tutorial-for-beginners-2018-with-cutting-edge-versions-of-simple-examples-f1b20e93bdf6
 
 ## Motivation:
-A lot of new graduated developers just emailed me and asked about where to start of learning React-Redux. They mentioned the difficulty to search a tutorial with simple demo code and explanation, while most of the existing tutorials are focusing on the concepts of Redux, which are very hard to understand as a beginner.
+A lot of new graduated developers just emailed me and asked about where to start learning React-Redux. They mentioned the difficulty to search a tutorial with simple demo code and explanation, while most of the existing tutorials are focusing on the concepts of Redux, which are very hard to understand as a beginner.
 
 ## Purpose:
 That’s the motivation of this article, to give you an complete structure of React-Redux project with just simple components within it. Easy to understand, expand friendly.
